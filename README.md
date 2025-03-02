@@ -3,8 +3,9 @@
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 
 
-
-
+<!-- Visitor's -->
+<p align="center"><b>Visitor's Count</b></p>
+<p align="center"><img src="https://profile-counter.glitch.me/%7BKevinPatel04%7D/count.svg" alt="visitor badge"/></p>
 
 <!-- Connect with me -->
 <!--h2 without bottom border-->
