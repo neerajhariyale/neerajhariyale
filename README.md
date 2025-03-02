@@ -20,7 +20,7 @@
 
 
 <!--FrontEnd Technologies-->
-<div align="center">
+<div align="left">
     <h2 align="center">FrontEnd Technologies🚀</h2>
         <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML" width="80">
         <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="CSS" width="80">
@@ -31,14 +31,14 @@
 
 
 <!--Backend Tecnologies-->
-<div align="center">
+<div align="left">
     <h2 align="center">Backend Technologies🚀</h2>
         <img src="https://i.imgur.com/gRzDY4j.png" alt="express" width="85" height="85">
 </div>
 
 
 <!--Database-->
-<div align="center">
+<div align="left">
     <h2 align="center">Database🚀</h2>
         <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" alt="Mongo DB" width="80">
         <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" alt="MySQL" width="80">
@@ -46,14 +46,14 @@
 
 
 <!--Run Time Environment-->
-<div align="center">
+<div align="left">
     <h2 align="center">Run Time Environment🚀</h2>
         <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node js" width="80">
 </div>
 
 
 <!--API Development and Testing-->
-<div align="center">
+<div align="left">
     <h2 align="center">API Development and Testing🚀</h2>
         <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" alt="postman" width="80">
 </div>
