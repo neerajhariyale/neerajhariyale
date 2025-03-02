@@ -1,4 +1,4 @@
-<p align=center ><img src="https://i.imgur.com/vShAHgt.png" title="source: imgur.com" /></p>
+<!-- <p align=center ><img src="https://i.imgur.com/vShAHgt.png" title="source: imgur.com" /></p> -->
 
 <!--GIF -->
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
