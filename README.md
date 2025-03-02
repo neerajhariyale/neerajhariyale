@@ -10,12 +10,12 @@
 </div>
 
 <!--GIF -->
-<p align="right"><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
+<div style="display: flex; justify-content: flex-end;"><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></div>
 
 
 <!---Language-->
 <div align="left">
-    <h2 align="left">Language🚀</h2>
+    <h2 align="left" >Language🚀</h2>
         <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="C" width="80">
         <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="80">
         <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="Java" width="80">
