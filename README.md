@@ -23,7 +23,7 @@
 
 <div align="center">
     <h2 align="center">Backend Technologies🚀</h2>
-        <img src="https://i.imgur.com/gRzDY4j.png" alt="express" width="80">
+        <img src="https://i.imgur.com/gRzDY4j.png" alt="express" width="85" height="85">
 </div>
 
 <div align="center">
