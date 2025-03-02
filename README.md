@@ -1,4 +1,5 @@
-<p align=center><a href="https://github.com/neerajhariyale"><img src="https://www.canva.com/design/DAGPGplZEms/9qsP2LsmMmXkH2xH0cJJNA/view?utm_content=DAGPGplZEms&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h84a1e57ba6" /></a></p>
+<p align=center ><img src="https://i.imgur.com/vShAHgt.png" title="source: imgur.com" /></p>
+
 <!--GIF -->
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 
