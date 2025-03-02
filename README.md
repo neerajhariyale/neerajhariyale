@@ -1,13 +1,16 @@
+<!--Header Image-->
 <p align="center">
   <img src="https://i.imgur.com/a0GX9Qz.png" height="200"/>
 </p>
 
+
+<!--Header Name GIF or Animation-->
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%ffffff&size=50&center=true&vCenter=true&height=60&width=600&lines=Heyyy!+I'm+Neeraj+Hariyale;Welcome+to+my+profile!" alt="Title"></img>
 </div>
 
 
-<!---TECHNOLOGY USED-->
+<!---Language-->
 <div align="center">
     <h2 align="center">Language🚀</h2>
         <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="C" width="80">
@@ -16,22 +19,25 @@
 </div>
 
 
+<!--FrontEnd Technologies-->
 <div align="center">
     <h2 align="center">FrontEnd Technologies🚀</h2>
         <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML" width="80">
         <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="CSS" width="80">
         <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" alt="tailwind CSS" width="80">
         <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="80">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="React" width="80">
-        
+        <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="React" width="80">      
 </div>
 
 
+<!--Backend Tecnologies-->
 <div align="center">
     <h2 align="center">Backend Technologies🚀</h2>
         <img src="https://i.imgur.com/gRzDY4j.png" alt="express" width="85" height="85">
 </div>
 
+
+<!--Database-->
 <div align="center">
     <h2 align="center">Database🚀</h2>
         <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" alt="Mongo DB" width="80">
@@ -39,25 +45,27 @@
 </div>
 
 
+<!--Run Time Environment-->
 <div align="center">
     <h2 align="center">Run Time Environment🚀</h2>
         <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node js" width="80">
 </div>
 
+
+<!--API Development and Testing-->
 <div align="center">
     <h2 align="center">API Development and Testing🚀</h2>
         <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" alt="postman" width="80">
 </div>
 
 
-
-
-
+<!--IDE'S-->
 <h2 align="center">IDE's 🚀</h2>
     <div align="center">
         <img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg" alt="Intellij" width="80">
         <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="VsCode" width="80">
     </div>
+
 
 <!--GIF -->
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
@@ -90,8 +98,6 @@
 
 
 <!-- Github Stats-->
-Feel free to reach out to me for collaborations, discussions, or just to say hello! 😄
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=neerajhariyale&show_icons=true&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40&locale=en" alt="GitHub Stats" />
 </p>
@@ -106,6 +112,7 @@ Feel free to reach out to me for collaborations, discussions, or just to say hel
 <p align="center">Made with ❤️ by Neeraj</p>
 
 
+<!--Footer GIF-->
 <p align="center">
         <img src="https://raw.githubusercontent.com/bornmay/bornmay/Update/svg/Bottom.svg" alt="Github Stats" />
 </p>
