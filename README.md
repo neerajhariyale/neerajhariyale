@@ -23,7 +23,7 @@
 
 <div align="center">
     <h2 align="center">Backend Technologies🚀</h2>
-        <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" alt="express" width="80">
+        <img src="https://i.imgur.com/gRzDY4j.png" alt="express" width="80">
 </div>
 
 <div align="center">
