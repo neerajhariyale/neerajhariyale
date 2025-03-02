@@ -1,4 +1,4 @@
-
+<p align=center><a href="https://github.com/neerajhariyale"><img src="[https://i.imgur.com/iz0jaCX.png](https://www.canva.com/design/DAGPGplZEms/9qsP2LsmMmXkH2xH0cJJNA/view?utm_content=DAGPGplZEms&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h84a1e57ba6)" /></a></p>
 <!--GIF -->
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 
@@ -35,4 +35,6 @@ Feel free to reach out to me for collaborations, discussions, or just to say hel
 
 <p align="center">
        <img src="https://github-readme-streak-stats.herokuapp.com/?user=neerajhariyale&background=000000&stroke=130F40&ring=2234AE&fire=D3D3D3&currStreakNum=D3D3D3&sideNums=D3D3D3&currStreakLabel=D3D3D3&sideLabels=D3D3D3&dates=D3D3D3" alt="GitHub Streak" />
+
+
 
