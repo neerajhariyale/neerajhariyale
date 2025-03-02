@@ -47,7 +47,7 @@
 
 
 
-<h2 align="center">Used IDE's</h2>
+<h2 align="center">IDE's 🚀</h2>
     <div align="center">
         <img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg" alt="Intellij" width="80">
         <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="VsCode" width="80">
