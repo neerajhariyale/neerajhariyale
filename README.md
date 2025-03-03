@@ -91,12 +91,18 @@
     </div>
 
 <br><br>
+<p  align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
+<br>
 <!-- Visitor's -->
 <p align="center"><b>Visitor's Count👁️‍🗨️</b></p>
 <p align="center">
   <img src="https://profile-counter.glitch.me/neerajhariyale/count.svg" alt="Visitor Badge"/>
 </p>
-
+<br>
+<p  align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
+<br>
 
 <!-- Connect with me -->
 <!--h2 without bottom border-->
