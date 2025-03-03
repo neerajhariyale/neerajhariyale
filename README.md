@@ -1,3 +1,4 @@
+
 <!--Header Image-->
 <p align="center">
   <img src="https://i.imgur.com/a0GX9Qz.png" height="200"/>
@@ -14,64 +15,72 @@
 
 
 <!---Language-->
-<div align="left">
+<p align="left">
     <h2 align="left" >Language🚀</h2>
         <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="C" width="80">
         <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="80">
         <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="Java" width="80">
-</div>
+</p>
 
 
 <!--FrontEnd Technologies-->
-<div align="left">
+<p align="left">
     <h2 align="left">FrontEnd Technologies🚀</h2>
         <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML" width="80">
         <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="CSS" width="80">
         <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" alt="tailwind CSS" width="80">
         <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="80">
         <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="React" width="80">      
-</div>
+</p>
 
 
 <!--Backend Tecnologies-->
-<div align="left">
+<p align="left">
     <h2 align="left">Backend Technologies🚀</h2>
         <img src="https://i.imgur.com/gRzDY4j.png" alt="express" width="85" height="85">
-</div>
+</p>
 
 
 <!--Database-->
-<div align="left">
+<p align="left">
     <h2 align="left">Database🚀</h2>
         <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" alt="Mongo DB" width="80">
         <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" alt="MySQL" width="80">
-</div>
+</p>
 
 
 <!--Run Time Environment-->
-<div align="left">
+<p align="left">
     <h2 align="left">Run Time Environment🚀</h2>
         <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node js" width="80">
-</div>
+</p>
 
 
 <!--API Development and Testing-->
-<div align="left">
+<p align="left">
     <h2 align="left">API Development and Testing🚀</h2>
         <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" alt="postman" width="80">
-</div>
+</p>
 
 
 <!--IDE'S-->
-<h2 align="left">IDE's 🚀</h2>
-    <div align="left">
+ <p align="left">
+        <h2 align="left">IDE's 🚀</h2>
         <img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg" alt="Intellij" width="80">
         <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="VsCode" width="80">
-    </div>
+    </p>
 
 
 
+<!-- Github Stats-->
+<p align="right">
+  <img src="https://github-readme-stats.vercel.app/api?username=neerajhariyale&show_icons=true&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40&locale=en" alt="GitHub Stats" />
+</p>
 
+<p align="right">
+       <img src="https://github-readme-streak-stats.herokuapp.com/?user=neerajhariyale&background=000000&stroke=130F40&ring=2234AE&fire=D3D3D3&currStreakNum=D3D3D3&sideNums=D3D3D3&currStreakLabel=D3D3D3&sideLabels=D3D3D3&dates=D3D3D3" alt="GitHub Streak" />
+
+       
 
 <!-- Visitor's -->
 <p align="center"><b>Visitor's Count</b></p>
