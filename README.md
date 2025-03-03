@@ -132,7 +132,9 @@
   <img src="https://github-readme-stats.vercel.app/api?username=neerajhariyale&show_icons=true&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40&locale=en" alt="GitHub Stats" />
 </p>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=neerajhariyale&background=000000&stroke=131FB9&ring=124EEE&fire=FFFFFF&currStreakNum=EBEBEB&sideNums=EBEBEB&currStreakLabel=EBEBEB&sideLabels=EBEBEB&dates=EBEBEB&excludeDaysLabel=EBEBEB)](https://git.io/streak-stats)
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=neerajhariyale&background=000000&stroke=131FB9&ring=124EEE&fire=FFFFFF&currStreakNum=EBEBEB&sideNums=EBEBEB&currStreakLabel=EBEBEB&sideLabels=EBEBEB&dates=EBEBEB&excludeDaysLabel=EBEBEB" alt="GitHub Streak" />
+</p>
 
 <!--FOOTER-->
 <p align="center">🤍 If you like my projects, Give them ⭐ and Share it with friends!</p>
