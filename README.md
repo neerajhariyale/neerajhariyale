@@ -34,7 +34,7 @@
 
 <!--FrontEnd Technologies-->
 <div align="center">
-    <p align="left">FrontEnd Technologies🚀</p>
+    <p align="left text="24px">FrontEnd Technologies🚀</p>
         <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML" width="80">
         <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="CSS" width="80">
         <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" alt="tailwind CSS" width="80">
