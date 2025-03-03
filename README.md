@@ -40,7 +40,7 @@
 </div>
 
 
-
+<br>
 <!--FrontEnd Technologies-->
 <div align="center">
     <h2 align="center">FrontEnd Technologies🚀</h2>
@@ -51,7 +51,7 @@
         <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="React" width="65">      
 </div>
 
-
+<br>
 <!--Backend Tecnologies-->
 <div align="center">
     <h2 align="center">Backend Technologies🚀</h2>
@@ -59,7 +59,7 @@
 </div>
 
 
-
+<br>
 <!--Database-->
 <div align="center">
     <h2 align="center">Database🚀</h2>
@@ -68,28 +68,27 @@
 </div>
 
 
-
+<br>
 <!--Run Time Environment-->
 <div align="center">
     <h2 align="center">Run Time Environment🚀</h2>
         <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node js" width="65">
 </div>
 
-
+<br>
 <!--API Development and Testing-->
 <div align="center">
     <h2 align="center">API Development and Testing🚀</h2>
         <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" alt="postman" width="65">
 </div>
 
-
+<br>
 <!--IDE'S-->
  <div align="center">
         <h2 align="center">IDE's 🚀</h2>
         <img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg" alt="Intellij" width="65">
         <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="VsCode" width="65">
     </div>
-
 
 <!-- Visitor's -->
 <p align="center"><b>Visitor's Count</b></p>
