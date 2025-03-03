@@ -15,12 +15,11 @@
     <img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" />    
 </div>
 
-<!-- Github Stats-->
 
 
 <!---Language-->
-<div align="left">
-    <h3 align="left" >Language 🚀</h3>
+<div align="center">
+    <h3 align="center">Language 🚀</h3>
     <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="C" width="65">
     <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="65">
     <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="Java" width="65">
@@ -29,8 +28,8 @@
 
 
 <!--FrontEnd Technologies-->
-<div align="left">
-    <h3 align="left">FrontEnd Technologies🚀</h3>
+<div align="center">
+    <h3 align="center">FrontEnd Technologies🚀</h3>
         <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML" width="65">
         <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="CSS" width="65">
         <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" alt="tailwind CSS" width="65">
@@ -40,16 +39,16 @@
 
 
 <!--Backend Tecnologies-->
-<div align="left">
-    <h3 align="left">Backend Technologies🚀</h3>
+<div align="center">
+    <h3 align="center">Backend Technologies🚀</h3>
         <img src="https://i.imgur.com/gRzDY4j.png" alt="express" width="70" height="75">
 </div>
 
 
 
 <!--Database-->
-<div align="left">
-    <h3 align="left">Database🚀</h3>
+<div align="center">
+    <h3 align="center">Database🚀</h3>
         <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" alt="Mongo DB" width="65">
         <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" alt="MySQL" width="65">
 </div>
@@ -57,30 +56,26 @@
 
 
 <!--Run Time Environment-->
-<div align="left">
-    <h3 align="left">Run Time Environment🚀</h3>
+<div align="center">
+    <h3 align="center">Run Time Environment🚀</h3>
         <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node js" width="65">
 </div>
 
 
 <!--API Development and Testing-->
-<div align="left">
-    <h3 align="left">API Development and Testing🚀</h3>
+<div align="center">
+    <h3 align="center">API Development and Testing🚀</h3>
         <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" alt="postman" width="65">
 </div>
 
 
 <!--IDE'S-->
- <div align="left">
-        <h3 align="left">IDE's 🚀</h3>
+ <div align="center">
+        <h3 align="center">IDE's 🚀</h3>
         <img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg" alt="Intellij" width="65">
         <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="VsCode" width="65">
     </div>
 
-
-
-
-       
 
 <!-- Visitor's -->
 <p align="center"><b>Visitor's Count</b></p>
