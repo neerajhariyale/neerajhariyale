@@ -23,7 +23,7 @@
 
 
 <!---Language-->
-<div align="center">
+<div align="left">
     <h3 align="left" >Language 🚀</h3>
     <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="C" width="65">
     <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="65">
@@ -33,7 +33,7 @@
 
 
 <!--FrontEnd Technologies-->
-<div align="center">
+<div align="left">
     <h3 align="left">FrontEnd Technologies🚀</h3>
         <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML" width="65">
         <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="CSS" width="65">
