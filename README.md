@@ -25,9 +25,9 @@
 <!---Language-->
 <div align="center">
     <h3 align="left" >Language 🚀</h3>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="C" width="80">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="80">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="Java" width="80">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="C" width="65">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="65">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="Java" width="65">
 </div>
 
 
@@ -35,48 +35,48 @@
 <!--FrontEnd Technologies-->
 <div align="center">
     <h3 align="left">FrontEnd Technologies🚀</h3>
-        <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML" width="60">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML" width="65">
         <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="CSS" width="65">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" alt="tailwind CSS" width="70">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="75">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="React" width="80">      
+        <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" alt="tailwind CSS" width="65">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="65">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="React" width="65">      
 </div>
 
 
 <!--Backend Tecnologies-->
 <p align="left">
     <h3 align="left">Backend Technologies🚀</h3>
-        <img src="https://i.imgur.com/gRzDY4j.png" alt="express" width="75" height="75">
+        <img src="https://i.imgur.com/gRzDY4j.png" alt="express" width="70" height="70">
 </p>
 
 
 <!--Database-->
 <p align="left">
     <h3 align="left">Database🚀</h3>
-        <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" alt="Mongo DB" width="60">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" alt="MySQL" width="60">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" alt="Mongo DB" width="65">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" alt="MySQL" width="65">
 </p>
 
 
 <!--Run Time Environment-->
 <p align="left">
     <h3 align="left">Run Time Environment🚀</h3>
-        <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node js" width="60">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node js" width="65">
 </p>
 
 
 <!--API Development and Testing-->
 <p align="left">
     <h3 align="left">API Development and Testing🚀</h3>
-        <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" alt="postman" width="60">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" alt="postman" width="65">
 </p>
 
 
 <!--IDE'S-->
  <p align="left">
         <h3 align="left">IDE's 🚀</h3>
-        <img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg" alt="Intellij" width="60">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="VsCode" width="60">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg" alt="Intellij" width="65">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="VsCode" width="65">
     </p>
 
 
