@@ -18,26 +18,20 @@
 <!--- About me-->
 ## 🚀 About Me  
 
-👋 Hi, I'm **Neeraj Hariyale**, an enthusiastic **Information Technology** student at **Oriental College of Technology, Bhopal**. Passionate about **software development, web technologies, and cybersecurity**, I love building projects that solve real-world problems.  
+👋 Hi, I'm **Neeraj Hariyale**, an enthusiastic **Information Technology** student at **Oriental College of Technology, Bhopal**. Passionate about **software development, web technologies.**, I love building projects that solve real-world problems.  
 
 ### 💡 What I Do  
-- 💻 **Proficient in:** C, C++, Java, HTML, CSS, JavaScript  
-- 🔍 **Passionate about:** Web Development, API Integration & Cybersecurity  
-- 🛠️ **Projects:** Developed **Weather App & Dev Detective** using web technologies  
+- 💻 **Proficient in:** C, C++, Java, DSA, HTML, CSS, JavaScript, React  
+- 🔍 **Passionate about:** Web Development, API Integration  
 
 ### 🎓 Education & Experience  
-- 🏫 **B.Tech in Information Technology** (7th Semester)  
+- 🏫 **B.Tech in Information Technology** (8th Semester)  
 - 🎯 **MP Police Cyber Internship** – Learned about cybercrime and fraud prevention  
 - 🌱 **Virtual Internship** – Applied theoretical knowledge to practical solutions  
 
 ### 🚀 Looking For  
 - 💼 Exciting **development opportunities & tech collaborations**  
 - 📖 Learning **new technologies** and staying updated with industry trends  
-
-### 📫 Let's Connect  
-- 🔗 **GitHub:** [github.com/yourusername](https://github.com/)  
-- 💼 **LinkedIn:** [linkedin.com/in/yourusername](https://www.linkedin.com/)  
-
 
 
 <!---Language-->
