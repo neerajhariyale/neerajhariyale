@@ -45,7 +45,7 @@
 
 <!--Backend Tecnologies-->
 <p align="left">
-    <h2 align="left">Backend Technologies🚀</h2>
+    <h3 align="left">Backend Technologies🚀</h3>
         <img src="https://i.imgur.com/gRzDY4j.png" alt="express" width="85" height="85">
 </p>
 
