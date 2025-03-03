@@ -16,29 +16,28 @@
 
 
 <!--- About me-->
-<div>
-  About Me 🚀
-👋 Hi, I'm Neeraj Hariyale, an enthusiastic Information Technology student at Oriental College of Technology, Bhopal. Passionate about software development, web technologies, and cybersecurity, I love building projects that solve real-world problems.
+## 🚀 About Me  
 
-💡 What I Do:
+👋 Hi, I'm **Neeraj Hariyale**, an enthusiastic **Information Technology** student at **Oriental College of Technology, Bhopal**. Passionate about **software development, web technologies, and cybersecurity**, I love building projects that solve real-world problems.  
 
-💻 Proficient in C, C++, Java, HTML, CSS, JavaScript
-🔍 Passionate about Web Development, API Integration & Cybersecurity
-🛠️ Developed projects like Weather App & Dev Detective using web technologies
-🎓 Education & Experience:
+### 💡 What I Do  
+- 💻 **Proficient in:** C, C++, Java, HTML, CSS, JavaScript  
+- 🔍 **Passionate about:** Web Development, API Integration & Cybersecurity  
+- 🛠️ **Projects:** Developed **Weather App & Dev Detective** using web technologies  
 
-🏫 Studying B.Tech in Information Technology (7th Semester)
-🎯 Completed MP Police Cyber Internship – Learning about cybercrime and fraud prevention
-🌱 Virtual Internship experience applying theoretical knowledge to practical solutions
-🚀 Looking For:
+### 🎓 Education & Experience  
+- 🏫 **B.Tech in Information Technology** (7th Semester)  
+- 🎯 **MP Police Cyber Internship** – Learned about cybercrime and fraud prevention  
+- 🌱 **Virtual Internship** – Applied theoretical knowledge to practical solutions  
 
-Exciting development opportunities & tech collaborations
-Learning new technologies and staying updated with industry trends
-📫 Let's Connect:
+### 🚀 Looking For  
+- 💼 Exciting **development opportunities & tech collaborations**  
+- 📖 Learning **new technologies** and staying updated with industry trends  
 
-🔗 GitHub: github.com/yourusername
-💼 LinkedIn: linkedin.com/in/yourusername
-</div>
+### 📫 Let's Connect  
+- 🔗 **GitHub:** [github.com/yourusername](https://github.com/)  
+- 💼 **LinkedIn:** [linkedin.com/in/yourusername](https://www.linkedin.com/)  
+
 
 
 <!---Language-->
