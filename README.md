@@ -33,7 +33,7 @@
 
 <!---Language-->
 <div align="center">
-    ## <u>Language 🚀 </u>
+    <h2 align="center">Language🚀</h2>
     <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="C" width="65">
     <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="65">
     <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="Java" width="65">
