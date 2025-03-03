@@ -1,4 +1,3 @@
-
 <!--Header Image-->
 <p align="center">
   <img src="https://i.imgur.com/a0GX9Qz.png" height="200"/>
@@ -15,6 +14,31 @@
     <img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" />    
 </div>
 
+
+<!--- About me-->
+<div>
+  About Me 🚀
+👋 Hi, I'm Neeraj Hariyale, an enthusiastic Information Technology student at Oriental College of Technology, Bhopal. Passionate about software development, web technologies, and cybersecurity, I love building projects that solve real-world problems.
+
+💡 What I Do:
+
+💻 Proficient in C, C++, Java, HTML, CSS, JavaScript
+🔍 Passionate about Web Development, API Integration & Cybersecurity
+🛠️ Developed projects like Weather App & Dev Detective using web technologies
+🎓 Education & Experience:
+
+🏫 Studying B.Tech in Information Technology (7th Semester)
+🎯 Completed MP Police Cyber Internship – Learning about cybercrime and fraud prevention
+🌱 Virtual Internship experience applying theoretical knowledge to practical solutions
+🚀 Looking For:
+
+Exciting development opportunities & tech collaborations
+Learning new technologies and staying updated with industry trends
+📫 Let's Connect:
+
+🔗 GitHub: github.com/yourusername
+💼 LinkedIn: linkedin.com/in/yourusername
+</div>
 
 
 <!---Language-->
