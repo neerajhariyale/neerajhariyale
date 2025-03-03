@@ -6,7 +6,7 @@
 
 <!--Header Name GIF or Animation-->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%5584FE&size=50&center=true&vCenter=true&height=60&width=600&lines=Heyyy!+I'm+Neeraj+Hariyale;Welcome+to+my+profile!" alt="Title"></img>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%6495ED&size=50&center=true&vCenter=true&height=60&width=600&lines=Heyyy!+I'm+Neeraj+Hariyale;Welcome+to+my+profile!" alt="Title"></img>
 </div>
 
 
