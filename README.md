@@ -15,23 +15,23 @@
 
 
 <!---Language-->
-<p align="center">
-    <h2 align="center" >Language🚀</h2>
+<div align="center">
+    <h2 align="left" >Language🚀</h2>
         <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="C" width="80">
         <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="80">
         <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="Java" width="80">
-</p>
+</div>
 
 
 <!--FrontEnd Technologies-->
-<p align="left">
+<div align="center">
     <p align="left">FrontEnd Technologies🚀</p>
         <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML" width="80">
         <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="CSS" width="80">
         <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" alt="tailwind CSS" width="80">
         <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="80">
         <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="React" width="80">      
-</p>
+</div>
 
 
 <!--Backend Tecnologies-->
