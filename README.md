@@ -90,11 +90,11 @@
         <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="VsCode" width="65">
     </div>
 
-<br><br>
-
-<!-- Visitor's -->
+<br>
+<br>
 ----
-<p align="center"><b>Visitor's Count👁️‍🗨️</b></p>
+<!-- Visitor's -->
+<p align="center"><b>Visitor's Count 👀</b></p>
 <p align="center">
   <img src="https://profile-counter.glitch.me/neerajhariyale/count.svg" alt="Visitor Badge"/>
 </p>
