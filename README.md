@@ -15,7 +15,7 @@
 
 
 <!---Language-->
-<p align="left">
+<p align="center">
     <h2 align="left" >Language🚀</h2>
         <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="C" width="80">
         <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="80">
