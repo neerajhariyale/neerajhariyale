@@ -94,10 +94,19 @@
 
 <!-- Visitor's -->
 ----
-<p align="center"><b>Visitor's Count 👀</b></p>
-<p align="center">
+
+
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Visitor's Count 👀</h2></summary>
+  </ul>
+  <p align="center">
   <img src="https://profile-counter.glitch.me/neerajhariyale/count.svg" alt="Visitor Badge"/>
 </p>
+</div>
+
+
+
 
 
 <!-- Connect with me -->
