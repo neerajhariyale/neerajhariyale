@@ -24,7 +24,7 @@
 
 <!---Language-->
 <div align="center">
-    <p align="left" style="font-size:24px; font-weight:bold;">Language 🚀</p>
+    <p align="left" style="font-size:32; font-weight:bold;">Language 🚀</p>
     <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="C" width="80">
     <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="80">
     <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="Java" width="80">
