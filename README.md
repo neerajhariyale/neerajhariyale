@@ -98,11 +98,11 @@
 <p align="center">
   <img src="https://profile-counter.glitch.me/neerajhariyale/count.svg" alt="Visitor Badge"/>
 </p>
-<br>
 
 
 <!-- Connect with me -->
 <!--h2 without bottom border-->
+----
 <div id="user-content-toc">
   <ul align="center">
     <summary><h2 style="display: inline-block">Connect With Me🤝</h2></summary>
