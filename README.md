@@ -11,23 +11,30 @@
 
 
 <!--GIF -->
+<!--
 <div style="display: flex; justify-content: flex-end;">
   <img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" height="80" width="80"   />    
 </div>
+-->
 
 
 <!--- About me-->
+<div align="center">
+
 ## 🚀 About Me  
 
-👋 Hi, I'm **Neeraj Hariyale**, an enthusiastic **Information Technology** student at **Oriental College of Technology, Bhopal**. Passionate about **software development, web technologies.**, I love building projects that solve real-world problems.  
+👋 Hi, I'm **Neeraj Hariyale**, an enthusiastic **Information Technology** student at **Oriental College of Technology, Bhopal**. Passionate about **software development, web technologies**, I love building projects that solve real-world problems.  
 
 ### 💡 What I Do  
-- 💻 **Proficient in:** C, C++, Java, DSA, HTML, CSS, JavaScript, React  
-- 🔍 **Passionate about:** Web Development, API Integration  
+💻 **Proficient in:** C, C++, Java, DSA, HTML, CSS, JavaScript, React  
+🔍 **Passionate about:** Web Development, API Integration  
 
 ### 🚀 Looking For  
-- 💼 Exciting **development opportunities & tech collaborations**  
-- 📖 Learning **new technologies** and staying updated with industry trends  
+💼 Exciting **development opportunities & tech collaborations**  
+📖 Learning **new technologies** and staying updated with industry trends  
+
+</div>
+ 
 
 <br><br>
 
