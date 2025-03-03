@@ -6,7 +6,7 @@
 
 <!--Header Name GIF or Animation-->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%3A86FF&size=50&center=true&vCenter=true&height=60&width=600&lines=Heyyy!+I'm+Neeraj+Hariyale;Welcome+to+my+profile!" alt="Title"></img>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%5584FE&size=50&center=true&vCenter=true&height=60&width=600&lines=Heyyy!+I'm+Neeraj+Hariyale;Welcome+to+my+profile!" alt="Title"></img>
 </div>
 
 
@@ -132,8 +132,9 @@
   <img src="https://github-readme-stats.vercel.app/api?username=neerajhariyale&show_icons=true&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40&locale=en" alt="GitHub Stats" />
 </p>
 
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=neerajhariyale&background=000000&ring=1929EB&fire=FFFFFF&currStreakNum=FFFFFF&stroke=2358E2&sideNums=FFFFFF&sideLabels=FFFFFF&currStreakLabel=FFFFFF&dates=FFFFFF&excludeDaysLabel=FFFFFF)](https://git.io/streak-stats)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=neerajhariyale&background=000000&ring=1929EB&fire=FFFFFF&currStreakNum=FFFFFF&stroke=2358E2&sideNums=FFFFFF&sideLabels=FFFFFF&currStreakLabel=FFFFFF&dates=FFFFFF&excludeDaysLabel=FFFFFF" />
+</p>
 
 
 <!--FOOTER-->
