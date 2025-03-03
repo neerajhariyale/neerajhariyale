@@ -24,7 +24,7 @@
 
 <!---Language-->
 <div align="center">
-    <p align="left" style="font-size:32; font-weight:bold;">Language 🚀</p>
+    <h3 align="left" >Language 🚀</h3>
     <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="C" width="80">
     <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="80">
     <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="Java" width="80">
@@ -34,7 +34,7 @@
 
 <!--FrontEnd Technologies-->
 <div align="center">
-    <p align="left text="24px">FrontEnd Technologies🚀</p>
+    <h3 align="left">FrontEnd Technologies🚀</h3>
         <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML" width="80">
         <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="CSS" width="80">
         <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" alt="tailwind CSS" width="80">
