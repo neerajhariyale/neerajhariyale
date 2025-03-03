@@ -12,8 +12,7 @@
 
 <!--GIF -->
 <div style="display: flex; justify-content: flex-end;">
-  <br><br>
-    <img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw"  />    
+    <img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw"   />    
 </div>
 
 
@@ -25,10 +24,6 @@
 ### 💡 What I Do  
 - 💻 **Proficient in:** C, C++, Java, DSA, HTML, CSS, JavaScript, React  
 - 🔍 **Passionate about:** Web Development, API Integration  
-
-### 🎓 Education & Experience  
-- 🏫 **B.Tech in Information Technology** (8th Semester)  
-- 🎯 **MP Police Cyber Internship** – Learned about cybercrime and fraud prevention  
 
 ### 🚀 Looking For  
 - 💼 Exciting **development opportunities & tech collaborations**  
