@@ -50,7 +50,13 @@
         <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" alt="MySQL" width="65">
 </div>
 
+<!-- Github Stats-->
+<div align="right">
+  <img src="https://github-readme-stats.vercel.app/api?username=neerajhariyale&show_icons=true&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40&locale=en" alt="GitHub Stats" align="right" />
+</div>
 
+<p align="right">
+       <img src="https://github-readme-streak-stats.herokuapp.com/?user=neerajhariyale&background=000000&stroke=130F40&ring=2234AE&fire=D3D3D3&currStreakNum=D3D3D3&sideNums=D3D3D3&currStreakLabel=D3D3D3&sideLabels=D3D3D3&dates=D3D3D3" alt="GitHub Streak " align="right"  />
 
 <!--Run Time Environment-->
 <div align="left">
@@ -73,13 +79,7 @@
         <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="VsCode" width="65">
     </div>
 
-<!-- Github Stats-->
-<div align="right">
-  <img src="https://github-readme-stats.vercel.app/api?username=neerajhariyale&show_icons=true&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40&locale=en" alt="GitHub Stats" />
-</div>
 
-<p align="right">
-       <img src="https://github-readme-streak-stats.herokuapp.com/?user=neerajhariyale&background=000000&stroke=130F40&ring=2234AE&fire=D3D3D3&currStreakNum=D3D3D3&sideNums=D3D3D3&currStreakLabel=D3D3D3&sideLabels=D3D3D3&dates=D3D3D3" alt="GitHub Streak" />
 
 
        
