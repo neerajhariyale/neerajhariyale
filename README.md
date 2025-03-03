@@ -43,7 +43,7 @@
 
 <!--FrontEnd Technologies-->
 <div align="center">
-    <h3 align="center">FrontEnd Technologies🚀</h3>
+    <h2 align="center">FrontEnd Technologies🚀</h2>
         <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML" width="65">
         <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="CSS" width="65">
         <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" alt="tailwind CSS" width="65">
@@ -54,7 +54,7 @@
 
 <!--Backend Tecnologies-->
 <div align="center">
-    <h3 align="center">Backend Technologies🚀</h3>
+    <h2 align="center">Backend Technologies🚀</h2>
         <img src="https://i.imgur.com/gRzDY4j.png" alt="express" width="70" height="75">
 </div>
 
@@ -62,7 +62,7 @@
 
 <!--Database-->
 <div align="center">
-    <h3 align="center">Database🚀</h3>
+    <h2 align="center">Database🚀</h2>
         <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" alt="Mongo DB" width="65">
         <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" alt="MySQL" width="65">
 </div>
@@ -71,21 +71,21 @@
 
 <!--Run Time Environment-->
 <div align="center">
-    <h3 align="center">Run Time Environment🚀</h3>
+    <h2 align="center">Run Time Environment🚀</h2>
         <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node js" width="65">
 </div>
 
 
 <!--API Development and Testing-->
 <div align="center">
-    <h3 align="center">API Development and Testing🚀</h3>
+    <h2 align="center">API Development and Testing🚀</h2>
         <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" alt="postman" width="65">
 </div>
 
 
 <!--IDE'S-->
  <div align="center">
-        <h3 align="center">IDE's 🚀</h3>
+        <h2 align="center">IDE's 🚀</h2>
         <img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg" alt="Intellij" width="65">
         <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="VsCode" width="65">
     </div>
@@ -108,11 +108,10 @@
 
 <!--icons and links-->
 <p align="center">
-<a href="https://www.linkedin.com/in/1010nishant/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
-<a href="https://twitter.com/1010nishant" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234980676-61bfb021-ecc8-48f7-88e6-34c1b06c4a58.png" alt="twitter" height="50" width="50" /></a> 
-<a href="https://www.instagram.com/nishant.jangir.1010/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234981169-2dd1e58f-4b7e-468c-8213-034ba62156c3.png" alt="instagram" height="50" width="50" /></a>
-<a href="https://1010nishant.hashnode.dev/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234982196-562aea17-5532-4550-8c08-1c7cb994a541.png" alt="hashnode" height="50" width="50" /></a>
-<a href="https://discordapp.com/users/957722095381540874" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234982627-019fd336-6248-453c-9b05-97c13fd1d207.png" alt="discord" height="50" width="50" /></a>
+<a href="https://www.linkedin.com/in/neeraj-hariyale-a0059022b/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
+<a href="https://x.com/NeerajHariyale3" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234980676-61bfb021-ecc8-48f7-88e6-34c1b06c4a58.png" alt="twitter" height="50" width="50" /></a> 
+<a href="https://www.instagram.com/_neeraj0001/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234981169-2dd1e58f-4b7e-468c-8213-034ba62156c3.png" alt="instagram" height="50" width="50" /></a>
+
   
 </p>
 
