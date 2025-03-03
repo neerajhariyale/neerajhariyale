@@ -29,6 +29,7 @@
 - 💼 Exciting **development opportunities & tech collaborations**  
 - 📖 Learning **new technologies** and staying updated with industry trends  
 
+<br><br>
 
 <!---Language-->
 <div align="center">
