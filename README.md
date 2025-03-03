@@ -90,8 +90,7 @@
         <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="VsCode" width="65">
     </div>
 
-<br>
-<br>
+<br><br>
 ----
 <!-- Visitor's -->
 <p align="center"><b>Visitor's Count 👀</b></p>
@@ -99,7 +98,7 @@
   <img src="https://profile-counter.glitch.me/neerajhariyale/count.svg" alt="Visitor Badge"/>
 </p>
 <br>
-----
+
 
 <!-- Connect with me -->
 <!--h2 without bottom border-->
