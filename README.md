@@ -133,10 +133,10 @@
 </p>
 
 <p align="center">
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=DenverCoder1"/></a>
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=neerajhariyale&background=000000&ring=1929EB&fire=FFFFFF&currStreakNum=FFFFFF&stroke=2358E2&sideNums=FFFFFF&sideLabels=FFFFFF&currStreakLabel=FFFFFF&dates=FFFFFF&excludeDaysLabel=FFFFFF" /></a>
 </p>
 
-</p>
+
 
 
 <!--FOOTER-->
