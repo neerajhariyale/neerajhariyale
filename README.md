@@ -91,8 +91,9 @@
     </div>
 
 <br><br>
-----
+
 <!-- Visitor's -->
+----
 <p align="center"><b>Visitor's Count 👀</b></p>
 <p align="center">
   <img src="https://profile-counter.glitch.me/neerajhariyale/count.svg" alt="Visitor Badge"/>
